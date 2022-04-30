@@ -1,0 +1,18 @@
+For the features I did NOT include the following: 
+Customer/User
+- Select time and date for delivery
+- Update time and date for delivery
+- Instead of "Cancel delivery" user can delete orders
+
+Admin
+- Create available schedules for delivery
+- Instead of "Delete delivery schedules" admin can delete orders
+
+
+
+In the Use Case Diagram:
+- There is no Profile Page
+- In the "Item List page" or in my new Use case it is called Menu Page. 
+  Users can now select or add to cart products.
+- Also in Order Page or Cart Page, users can now Update products from the cart
+- I also added two features for Admin which admin can search or view users
